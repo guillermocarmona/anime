@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+	<meta charset= 'utf-8'>
+
+	<title> Jojo's bizzarre adventures </title>
+	<link rel= 'stylesheet' type='text/css' href='../css/estilos.css'>
+	</heat>
+
+<h1 style = 'text-align:center;color:yellow;'> Jojo's bizzarre adventures </h1>
+
+	<body>
+
+<center><img src = '../figuras/jojosbizarreadventures.png'><figcaption style = 'text-align:center;color:white;'>Jojo's bizzarre adventures</figcaption></center>
+
+<h3>Introdución</h3>
+
+<p> Conocido mundialmente como Jojo's bizzarre adventures", "Jojo no Kimyou na Bouken" cuenta la historia de la familia Joestar
+ a través de las décadas y sus continuos enfrentamientos con el malvado vampiro Dio Brando y su legado. Una de las características más reconocibles de la obra es 
+ que se divide en diferentes partes o generaciones, completamente autónomas e independientes entre sí aunque todas las historias estan relacionadas las unas con las otras</p>
+
+<p> Los protagonistas son: Jonathan Joestar, Josep Joestar, Kujo Jotaro, Josuke Joestar y Giorno Giovana. En el manga aparecen otros tres protagonistas: Joline
+Joestar, Jonny Joestar y a Josuke de otro universo  </p>
+
+<table class = 'center' style = 'text-align:center;background-color:rgba(185, 193, 206, 1);' border='1'>
+
+<tr>
+
+	<td><a href = '../index.html'><img src='../figuras/home.png' width='50' height='50'>
+	</a><figcaption style = 'text-align:center;color:blue;'>Anime</figcaption>	
+	</td>
+	
+	<td><a href = '../html/bokunoheroacademia.html'><img src='../figuras/bokunoheroacademia.png' width='50' height='50'>
+	</a><figcaption style = 'text-align:center;color:blue;'>Boku no hero academia</figcaption>	
+	</td>
+	
+	<td><a href = '../html/kimetsunoyaiba.html'><img src='../figuras/kimetsunoyaiba.png' width='50' height='50'>
+	</a><figcaption style = 'text-align:center;color:blue;'>Kimetsu no yaiba</figcaption>	
+	</td>
+	
+	<td><a href = '../html/tatenoyuusha.html'><img src='../figuras/tatenoyuusha.png' width='50' height='50'>
+	</a><figcaption style = 'text-align:center;color:blue;'>Tate no yuusha</figcaption>	
+	</td>
+	
+	<td><a href = '../html/onepunchman.html'><img src='../figuras/onepunchman.png' width='50' height='50'>
+	</a><figcaption style = 'text-align:center;color:blue;'>One Punch Man</figcaption>	
+	</td>
+	
+	<td><a href = '../html/nanatsunotaizai.html'><img src='../figuras/nanatsunotaizai.png' width='50' height='50'>
+	</a><figcaption style = 'text-align:center;color:blue;'>Nanatsu no taizai</figcaption>	
+	</td>
+	
+
+</tr>
+
+</table>
+
+
+	</body>
+
+</html>
