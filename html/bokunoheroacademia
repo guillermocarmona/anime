@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+	<meta charset= 'utf-8'>
+
+	<title> Boku no hero academia </title>
+	<link rel= 'stylesheet' type='text/css' href='../css/estilos.css'>
+	</heat>
+
+<h1 style = 'text-align:center;color:orange;'> Boku no hero academia </h1>
+
+	<body>
+
+<center><img src = '../figuras/bokunoheroacademia.png'><figcaption style = 'text-align:center;color:white;'>Boku no hero academia</figcaption></center>
+
+<h3>Introdución</h3>
+
+<p> Boku no hero academia es un anime basado en el manga Boku no hero academia escrito por Kōhei Horikoshi. El anime cuenta con 4 temporadas. </p>
+
+<p> En el anime se presenta una trama en la que la gente tienen poderes (tambien llamados Dones, Particularidades o Koseis) que las personas utilizan en 
+su vida diaria. En este mundo hay una profesion de héroe que se dedica a protejer a los ciudadanos de los villanos que utilizan sus poderes para hacer el mal. </p>
+<p> El protagonista es un chico llamado Izuku Midoriya que de pequeño soñaba con ser un héroe como el simbolo de la paz llamado All Might pero el medio le
+diagnostico que habia nacido sin un don. </p>
+<p> Con el tiempo Izuku iba a terminar la segundaria y quería entrar en la preparatoria UE que es una preparatoria para heroes.  </p>
+<p> Cuando Izuku estaba regresando a su casa de la escuela un villano le ataca pero es salvado por su heroe de la infancia All Might. Izuku le pregunta si el 
+puede convertirse en un heroe sin tener un don a lo que le responde que no puede pero descubre que All Might tiene un limite de tiempo en el que puede ser un heroe. </p>
+<p> All Might habia perdido de vista al villano que atrapo por lo que se marcha a buscarlo. Cuando Izuku estaba volviendo ve al villano que estaba atacando a un compañero 
+de su clase que siempre se metia con el pero Izuku intenta sarvarlo. All Might aparece y los salva. </p>
+<p>Izuku se marcha pero All Might decide hacerlo su sucesor y entregarle su poder.</p>
+	</body>
+
+<table class = 'center' style = 'text-align:center;background-color:rgba(185, 193, 206, 1);' border='1'>
+
+<tr>
+
+	<td><a href = '../index.html'><img src='../figuras/home.png' width='50' height='50'>
+	</a><figcaption style = 'text-align:center;color:blue;'>Anime</figcaption>	
+	</td>
+	
+	<td><a href = '../html/jojosbizarreadventures.html'><img src='../figuras/jojosbizarreadventures.png' width='50' height='50'>
+	</a><figcaption style = 'text-align:center;color:blue;'>Jojo's bizarre adventures</figcaption>	
+	</td>
+	
+	<td><a href = '../html/kimetsunoyaiba.html'><img src='../figuras/kimetsunoyaiba.png' width='50' height='50'>
+	</a><figcaption style = 'text-align:center;color:blue;'>Kimetsu no yaiba</figcaption>	
+	</td>
+	
+	<td><a href = '../html/tatenoyuusha.html'><img src='../figuras/tatenoyuusha.png' width='50' height='50'>
+	</a><figcaption style = 'text-align:center;color:blue;'>Tate no yuusha</figcaption>	
+	</td>
+	
+	<td><a href = '../html/onepunchman.html'><img src='../figuras/onepunchman.png' width='50' height='50'>
+	</a><figcaption style = 'text-align:center;color:blue;'>One Punch Man</figcaption>	
+	</td>
+	
+	<td><a href = '../html/nanatsunotaizai.html'><img src='../figuras/nanatsunotaizai.png' width='50' height='50'>
+	</a><figcaption style = 'text-align:center;color:blue;'>Nanatsu no taizai</figcaption>	
+	</td>
+	
+</tr>
+
+</table>
+
+
+
+<!-- Saskeeee!! -->
+
+</html>
